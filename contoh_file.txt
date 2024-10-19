@@ -1,4 +1,6 @@
 ini contoh isian file untuk commit pada GitHub
 yang dilakukan rekan-rekan student dibimbing
 
-melakukan update code dari rekan lain
+#melakukan update code dari rekan lain
+
+#saya melakukan update pada branch
